@@ -15,11 +15,13 @@ Here's the list:
 
 # Get started with MocoCast.
 
-If you're looking for documentation, head to https://docs.mococast.com.
+If you're looking for documentation, head to [docs.mococast.com](https://docs.mococast.com).
 
-To see if things are working on MocoCast, check out https://status.mococast.com.
+To see if things are working on MocoCast, view our [dedicated status page](https://status.mococast.com).
 
-To create an account and start using MocoCast, go to https://my.mococast.com.
+Explore some [examples](https://player.mococast.com/examples) of players.
+
+Create an account and start using MocoCast, [here](https://my.mococast.com).
 
 ---
 
