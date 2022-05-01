@@ -13,15 +13,13 @@ Here's the list:
 5. Animate.css
 6. Pace.js
 
-# Get started with MocoCast.
+# A few resources.
 
 If you're looking for documentation, head to [docs.mococast.com](https://docs.mococast.com).
 
 To see if things are working on MocoCast, view our [dedicated status page](https://status.mococast.com).
 
-Explore some [examples](https://player.mococast.com/examples) of players.
-
-Create an account and start using MocoCast, [here](https://my.mococast.com).
+Explore some [examples](https://player.mococast.com/examples/) of players.
 
 ---
 
