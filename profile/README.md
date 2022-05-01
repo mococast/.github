@@ -15,8 +15,12 @@ Here's the list:
 
 # Get started with MocoCast.
 
-TBD
+If you're looking for documentation, head to https://docs.mococast.com.
+
+To see if things are working on MocoCast, check out https://status.mococast.com.
+
+To create an account and start using MocoCast, go to https://my.mococast.com.
 
 ---
 
-###### 2022 - MocoCast - A fully customizable player for AzuraCast radio stations.
+###### 2022 [MocoCast](https://mococast.com) - A fully customizable player for AzuraCast radio stations.
