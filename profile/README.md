@@ -1,6 +1,6 @@
 # An ode to open source.
 
-MocoCast would not be possible without some kick-ass open source out there and their contributors.
+MocoCast would not be possible without some kick-ass open source out there and its superhero contributors.
 
 So we thought it important to dedicate this space just for this.
 
@@ -13,7 +13,7 @@ Here's the list:
 5. Animate.css
 6. Pace.js
 
-# Some helpful resources for MocoCast users.
+# Get started with MocoCast.
 
 TBD
 
