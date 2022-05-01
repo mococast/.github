@@ -13,6 +13,10 @@ Here's the list:
 5. Animate.css
 6. Pace.js
 
+# Some helpful resources for MocoCast users.
+
+TBD
+
 ---
 
 ###### 2022 - MocoCast - A fully customizable player for AzuraCast radio stations.
