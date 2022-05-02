@@ -12,6 +12,7 @@ Here's the list:
 4. Flight PHP
 5. Animate.css
 6. Pace.js
+7. [Parsedown PHP](https://github.com/erusev/parsedown), by [@erusev](https://github.com/erusev)
 
 # A few resources.
 
